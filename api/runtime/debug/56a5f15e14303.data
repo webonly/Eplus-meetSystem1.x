@@ -1,0 +1,2412 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:5:"5.5.1";s:10:"yiiVersion";s:5:"2.0.4";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.4";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:5:"5.5.1";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:7:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:56:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:56:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:54:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:50:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:48:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:50:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-faker";}}s:20:"yiisoft/yii2-mongodb";a:3:{s:4:"name";s:20:"yiisoft/yii2-mongodb";s:7:"version";s:7:"2.0.1.0";s:5:"alias";a:1:{s:12:"@yii/mongodb";s:52:"C:\xampp\htdocs\shmdaAPI\vendor/yiisoft/yii2-mongodb";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:11:{s:4:"host";s:12:"127.0.0.1:81";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:3:"428";s:6:"accept";s:3:"*/*";s:6:"origin";s:19:"http://127.0.0.1:81";s:16:"x-requested-with";s:14:"XMLHttpRequest";s:10:"user-agent";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36";s:12:"content-type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:7:"referer";s:78:"http://127.0.0.1:81/shmdaapi/api/web/index.php?r=gii%2Fdefault%2Fview&id=model";s:15:"accept-encoding";s:17:"gzip,deflate,sdch";s:15:"accept-language";s:14:"zh-CN,zh;q=0.8";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:9:"PHP/5.5.1";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:19:"gii/default/preview";s:6:"action";s:54:"yii\gii\controllers\DefaultController::actionPreview()";s:12:"actionParams";a:2:{i:0;s:5:"model";i:1;s:32:"3f32de9eca7dd1bd4ad3c0cf9a41afd3";}s:11:"requestBody";a:3:{s:12:"Content Type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:3:"Raw";s:428:"Generator%5BtableName%5D=MInfo_Cases&Generator%5BmodelClass%5D=ophthCases&Generator%5Bns%5D=api%5Cmodels%5Cophth&Generator%5BbaseClass%5D=yii%5Cdb%5CActiveRecord&Generator%5Bdb%5D=threeDb&Generator%5BuseTablePrefix%5D=0&Generator%5BgenerateRelations%5D=0&Generator%5BgenerateRelations%5D=1&Generator%5BgenerateLabelsFromComments%5D=0&Generator%5BenableI18N%5D=0&Generator%5BmessageCategory%5D=app&Generator%5Btemplate%5D=default";s:17:"Decoded to Params";a:1:{s:9:"Generator";a:11:{s:9:"tableName";s:11:"MInfo_Cases";s:10:"modelClass";s:10:"ophthCases";s:2:"ns";s:16:"api\models\ophth";s:9:"baseClass";s:19:"yii\db\ActiveRecord";s:2:"db";s:7:"threeDb";s:14:"useTablePrefix";s:1:"0";s:17:"generateRelations";s:1:"1";s:26:"generateLabelsFromComments";s:1:"0";s:10:"enableI18N";s:1:"0";s:15:"messageCategory";s:3:"app";s:8:"template";s:7:"default";}}}s:6:"SERVER";a:44:{s:7:"MIBDIRS";s:24:"C:/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:31:"C:/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:12:"127.0.0.1:81";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:3:"428";s:11:"HTTP_ACCEPT";s:3:"*/*";s:11:"HTTP_ORIGIN";s:19:"http://127.0.0.1:81";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:15:"HTTP_USER_AGENT";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36";s:12:"CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:12:"HTTP_REFERER";s:78:"http://127.0.0.1:81/shmdaapi/api/web/index.php?r=gii%2Fdefault%2Fview&id=model";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip,deflate,sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"zh-CN,zh;q=0.8";s:4:"PATH";s:203:"C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Roaming\npm";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:93:"<address>Apache/2.4.4 (Win32) OpenSSL/1.0.1e PHP/5.5.1 Server at 127.0.0.1 Port 81</address>
+";s:15:"SERVER_SOFTWARE";s:45:"Apache/2.4.4 (Win32) OpenSSL/1.0.1e PHP/5.5.1";s:11:"SERVER_NAME";s:9:"127.0.0.1";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"81";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:15:"C:/xampp/htdocs";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:15:"C:/xampp/htdocs";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:42:"C:/xampp/htdocs/shmdaAPI/api/web/index.php";s:11:"REMOTE_PORT";s:5:"54860";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:72:"r=gii%2Fdefault%2Fpreview&id=model&file=3f32de9eca7dd1bd4ad3c0cf9a41afd3";s:11:"REQUEST_URI";s:100:"/shmdaapi/api/web/index.php?r=gii%2Fdefault%2Fpreview&id=model&file=3f32de9eca7dd1bd4ad3c0cf9a41afd3";s:11:"SCRIPT_NAME";s:27:"/shmdaapi/api/web/index.php";s:8:"PHP_SELF";s:27:"/shmdaapi/api/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1453715806.0450000762939453125;s:12:"REQUEST_TIME";i:1453715806;}s:3:"GET";a:3:{s:1:"r";s:19:"gii/default/preview";s:2:"id";s:5:"model";s:4:"file";s:32:"3f32de9eca7dd1bd4ad3c0cf9a41afd3";}s:4:"POST";a:1:{s:9:"Generator";a:11:{s:9:"tableName";s:11:"MInfo_Cases";s:10:"modelClass";s:10:"ophthCases";s:2:"ns";s:16:"api\models\ophth";s:9:"baseClass";s:19:"yii\db\ActiveRecord";s:2:"db";s:7:"threeDb";s:14:"useTablePrefix";s:1:"0";s:17:"generateRelations";s:1:"1";s:26:"generateLabelsFromComments";s:1:"0";s:10:"enableI18N";s:1:"0";s:15:"messageCategory";s:3:"app";s:8:"template";s:7:"default";}}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:52:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453715806.0756909847259521484375;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1453715806.0756909847259521484375;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453715806.0816910266876220703125;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1453715806.0836908817291259765625;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453715806.0836908817291259765625;i:4;a:0:{}}i:5;a:5:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1453715806.085691928863525390625;i:4;a:0:{}}i:6;a:5:{i:0;s:38:"Route requested: 'gii/default/preview'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1453715806.085691928863525390625;i:4;a:0:{}}i:7;a:5:{i:0;s:33:"Route to run: gii/default/preview";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1453715806.0886919498443603515625;i:4;a:0:{}}i:8;a:5:{i:0;s:70:"Running action: yii\gii\controllers\DefaultController::actionPreview()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1453715806.0996921062469482421875;i:4;a:0:{}}i:9;a:5:{i:0;s:75:"Opening DB connection: sqlsrv:server=localhost;database=MISD.SHMDA.SP.Ophth";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1453715806.116693019866943359375;i:4;a:0:{}}i:12;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1176929473876953125;i:4;a:0:{}}i:15;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Cases' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1186931133270263671875;i:4;a:0:{}}i:18;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Cases' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1716959476470947265625;i:4;a:0:{}}i:21;a:5:{i:0;s:171:"SELECT [t].[table_name]
+FROM [INFORMATION_SCHEMA].[TABLES] AS [t]
+WHERE [t].[table_schema] = 'dbo' AND [t].[table_type] IN ('BASE TABLE', 'VIEW')
+ORDER BY [t].[table_name]";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:24;a:5:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'DEMO' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:27;a:5:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'DEMO' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1756970882415771484375;i:4;a:0:{}}i:30;a:5:{i:0;s:815:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'DEMO' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.178697109222412109375;i:4;a:0:{}}i:33;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Activity' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.180696964263916015625;i:4;a:0:{}}i:36;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Activity' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.18169689178466796875;i:4;a:0:{}}i:39;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Activity' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2176990509033203125;i:4;a:0:{}}i:42;a:5:{i:0;s:489:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Article' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.21969890594482421875;i:4;a:0:{}}i:45;a:5:{i:0;s:732:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Article' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2206990718841552734375;i:4;a:0:{}}i:48;a:5:{i:0;s:824:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Article' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.275701999664306640625;i:4;a:0:{}}i:51;a:5:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Construct' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2777020931243896484375;i:4;a:0:{}}i:54;a:5:{i:0;s:734:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Construct' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2797029018402099609375;i:4;a:0:{}}i:57;a:5:{i:0;s:826:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Construct' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.31470489501953125;i:4;a:0:{}}i:60;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Download' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3167049884796142578125;i:4;a:0:{}}i:63;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Download' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3177049160003662109375;i:4;a:0:{}}i:66;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Download' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3487069606781005859375;i:4;a:0:{}}i:69;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Image' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.35070705413818359375;i:4;a:0:{}}i:72;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Image' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.351706981658935546875;i:4;a:0:{}}i:75;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Image' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3917090892791748046875;i:4;a:0:{}}i:78;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Repute' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:81;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Repute' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:84;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Repute' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4327108860015869140625;i:4;a:0:{}}i:87;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Video' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.434710979461669921875;i:4;a:0:{}}i:90;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Video' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4357120990753173828125;i:4;a:0:{}}i:93;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Video' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.470714092254638671875;i:4;a:0:{}}i:96;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MLog_Access' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:99;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MLog_Access' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4737141132354736328125;i:4;a:0:{}}i:102;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MLog_Access' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.498714923858642578125;i:4;a:0:{}}i:105;a:5:{i:0;s:486:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Login' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4997150897979736328125;i:4;a:0:{}}i:108;a:5:{i:0;s:729:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Login' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5007150173187255859375;i:4;a:0:{}}i:111;a:5:{i:0;s:821:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Login' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5197160243988037109375;i:4;a:0:{}}i:114;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Session' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:117;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Session' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.522716999053955078125;i:4;a:0:{}}i:120;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Session' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5397169589996337890625;i:4;a:0:{}}i:123;a:5:{i:0;s:485:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.54071807861328125;i:4;a:0:{}}i:126;a:5:{i:0;s:728:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_User' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:129;a:5:{i:0;s:820:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.58071994781494140625;i:4;a:0:{}}i:132;a:5:{i:0;s:482:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'UNIQUE' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5837199687957763671875;i:4;a:0:{}}i:135;a:5:{i:0;s:104:"Rendering view file: C:\xampp\htdocs\shmdaAPI\vendor\yiisoft\yii2-gii\generators\model/default/model.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1453715806.586719989776611328125;i:4;a:0:{}}}}s:9:"profiling";a:3:{s:6:"memory";i:4694696;s:4:"time";d:0.5890331268310546875;s:8:"messages";a:84:{i:10;a:5:{i:0;s:75:"Opening DB connection: sqlsrv:server=localhost;database=MISD.SHMDA.SP.Ophth";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1453715806.116693019866943359375;i:4;a:0:{}}i:11;a:5:{i:0;s:75:"Opening DB connection: sqlsrv:server=localhost;database=MISD.SHMDA.SP.Ophth";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1453715806.1176929473876953125;i:4;a:0:{}}i:13;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1176929473876953125;i:4;a:0:{}}i:14;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1186931133270263671875;i:4;a:0:{}}i:16;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Cases' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1186931133270263671875;i:4;a:0:{}}i:17;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Cases' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1696960926055908203125;i:4;a:0:{}}i:19;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Cases' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1716959476470947265625;i:4;a:0:{}}i:20;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Cases' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.173696994781494140625;i:4;a:0:{}}i:22;a:5:{i:0;s:171:"SELECT [t].[table_name]
+FROM [INFORMATION_SCHEMA].[TABLES] AS [t]
+WHERE [t].[table_schema] = 'dbo' AND [t].[table_type] IN ('BASE TABLE', 'VIEW')
+ORDER BY [t].[table_name]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:23;a:5:{i:0;s:171:"SELECT [t].[table_name]
+FROM [INFORMATION_SCHEMA].[TABLES] AS [t]
+WHERE [t].[table_schema] = 'dbo' AND [t].[table_type] IN ('BASE TABLE', 'VIEW')
+ORDER BY [t].[table_name]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:25;a:5:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'DEMO' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:26;a:5:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'DEMO' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1756970882415771484375;i:4;a:0:{}}i:28;a:5:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'DEMO' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1756970882415771484375;i:4;a:0:{}}i:29;a:5:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'DEMO' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.178697109222412109375;i:4;a:0:{}}i:31;a:5:{i:0;s:815:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'DEMO' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1796970367431640625;i:4;a:0:{}}i:32;a:5:{i:0;s:815:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'DEMO' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.180696964263916015625;i:4;a:0:{}}i:34;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Activity' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.180696964263916015625;i:4;a:0:{}}i:35;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Activity' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.18169689178466796875;i:4;a:0:{}}i:37;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Activity' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.18169689178466796875;i:4;a:0:{}}i:38;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Activity' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2176990509033203125;i:4;a:0:{}}i:40;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Activity' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2176990509033203125;i:4;a:0:{}}i:41;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Activity' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.21969890594482421875;i:4;a:0:{}}i:43;a:5:{i:0;s:489:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Article' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.21969890594482421875;i:4;a:0:{}}i:44;a:5:{i:0;s:489:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Article' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2206990718841552734375;i:4;a:0:{}}i:46;a:5:{i:0;s:732:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Article' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2206990718841552734375;i:4;a:0:{}}i:47;a:5:{i:0;s:732:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Article' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2747020721435546875;i:4;a:0:{}}i:49;a:5:{i:0;s:824:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Article' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.275701999664306640625;i:4;a:0:{}}i:50;a:5:{i:0;s:824:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Article' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2777020931243896484375;i:4;a:0:{}}i:52;a:5:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Construct' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2777020931243896484375;i:4;a:0:{}}i:53;a:5:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Construct' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2797029018402099609375;i:4;a:0:{}}i:55;a:5:{i:0;s:734:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Construct' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2797029018402099609375;i:4;a:0:{}}i:56;a:5:{i:0;s:734:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Construct' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.313704967498779296875;i:4;a:0:{}}i:58;a:5:{i:0;s:826:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Construct' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.31470489501953125;i:4;a:0:{}}i:59;a:5:{i:0;s:826:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Construct' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3167049884796142578125;i:4;a:0:{}}i:61;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Download' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3167049884796142578125;i:4;a:0:{}}i:62;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Download' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3177049160003662109375;i:4;a:0:{}}i:64;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Download' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3177049160003662109375;i:4;a:0:{}}i:65;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Download' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3487069606781005859375;i:4;a:0:{}}i:67;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Download' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3487069606781005859375;i:4;a:0:{}}i:68;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Download' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.35070705413818359375;i:4;a:0:{}}i:70;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Image' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.35070705413818359375;i:4;a:0:{}}i:71;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Image' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.351706981658935546875;i:4;a:0:{}}i:73;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Image' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.351706981658935546875;i:4;a:0:{}}i:74;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Image' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.39070892333984375;i:4;a:0:{}}i:76;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Image' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3917090892791748046875;i:4;a:0:{}}i:77;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Image' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:79;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Repute' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:80;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Repute' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:82;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Repute' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:83;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Repute' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4317109584808349609375;i:4;a:0:{}}i:85;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Repute' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4327108860015869140625;i:4;a:0:{}}i:86;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Repute' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.43371105194091796875;i:4;a:0:{}}i:88;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Video' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.434710979461669921875;i:4;a:0:{}}i:89;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Video' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4357120990753173828125;i:4;a:0:{}}i:91;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Video' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4357120990753173828125;i:4;a:0:{}}i:92;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Video' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.470714092254638671875;i:4;a:0:{}}i:94;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Video' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.470714092254638671875;i:4;a:0:{}}i:95;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Video' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:97;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MLog_Access' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:98;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MLog_Access' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:100;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MLog_Access' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4737141132354736328125;i:4;a:0:{}}i:101;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MLog_Access' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.497714996337890625;i:4;a:0:{}}i:103;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MLog_Access' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.498714923858642578125;i:4;a:0:{}}i:104;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MLog_Access' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4997150897979736328125;i:4;a:0:{}}i:106;a:5:{i:0;s:486:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Login' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4997150897979736328125;i:4;a:0:{}}i:107;a:5:{i:0;s:486:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Login' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5007150173187255859375;i:4;a:0:{}}i:109;a:5:{i:0;s:729:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Login' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5007150173187255859375;i:4;a:0:{}}i:110;a:5:{i:0;s:729:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Login' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5197160243988037109375;i:4;a:0:{}}i:112;a:5:{i:0;s:821:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Login' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5207159519195556640625;i:4;a:0:{}}i:113;a:5:{i:0;s:821:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Login' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:115;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Session' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:116;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Session' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:118;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Session' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.522716999053955078125;i:4;a:0:{}}i:119;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Session' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5397169589996337890625;i:4;a:0:{}}i:121;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Session' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5397169589996337890625;i:4;a:0:{}}i:122;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Session' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.54071807861328125;i:4;a:0:{}}i:124;a:5:{i:0;s:485:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:125;a:5:{i:0;s:485:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:127;a:5:{i:0;s:728:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_User' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:128;a:5:{i:0;s:728:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_User' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.579720020294189453125;i:4;a:0:{}}i:130;a:5:{i:0;s:820:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.58071994781494140625;i:4;a:0:{}}i:131;a:5:{i:0;s:820:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5817201137542724609375;i:4;a:0:{}}i:133;a:5:{i:0;s:482:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'UNIQUE' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5837199687957763671875;i:4;a:0:{}}i:134;a:5:{i:0;s:482:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'UNIQUE' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5837199687957763671875;i:4;a:0:{}}}}s:2:"db";a:1:{s:8:"messages";a:82:{i:13;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1176929473876953125;i:4;a:0:{}}i:14;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1186931133270263671875;i:4;a:0:{}}i:16;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Cases' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1186931133270263671875;i:4;a:0:{}}i:17;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Cases' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1696960926055908203125;i:4;a:0:{}}i:19;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Cases' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1716959476470947265625;i:4;a:0:{}}i:20;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Cases' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.173696994781494140625;i:4;a:0:{}}i:22;a:5:{i:0;s:171:"SELECT [t].[table_name]
+FROM [INFORMATION_SCHEMA].[TABLES] AS [t]
+WHERE [t].[table_schema] = 'dbo' AND [t].[table_type] IN ('BASE TABLE', 'VIEW')
+ORDER BY [t].[table_name]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:23;a:5:{i:0;s:171:"SELECT [t].[table_name]
+FROM [INFORMATION_SCHEMA].[TABLES] AS [t]
+WHERE [t].[table_schema] = 'dbo' AND [t].[table_type] IN ('BASE TABLE', 'VIEW')
+ORDER BY [t].[table_name]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:25;a:5:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'DEMO' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.17469692230224609375;i:4;a:0:{}}i:26;a:5:{i:0;s:480:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'DEMO' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1756970882415771484375;i:4;a:0:{}}i:28;a:5:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'DEMO' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1756970882415771484375;i:4;a:0:{}}i:29;a:5:{i:0;s:723:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'DEMO' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.178697109222412109375;i:4;a:0:{}}i:31;a:5:{i:0;s:815:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'DEMO' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.1796970367431640625;i:4;a:0:{}}i:32;a:5:{i:0;s:815:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'DEMO' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.180696964263916015625;i:4;a:0:{}}i:34;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Activity' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.180696964263916015625;i:4;a:0:{}}i:35;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Activity' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.18169689178466796875;i:4;a:0:{}}i:37;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Activity' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.18169689178466796875;i:4;a:0:{}}i:38;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Activity' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2176990509033203125;i:4;a:0:{}}i:40;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Activity' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2176990509033203125;i:4;a:0:{}}i:41;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Activity' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.21969890594482421875;i:4;a:0:{}}i:43;a:5:{i:0;s:489:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Article' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.21969890594482421875;i:4;a:0:{}}i:44;a:5:{i:0;s:489:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Article' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2206990718841552734375;i:4;a:0:{}}i:46;a:5:{i:0;s:732:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Article' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2206990718841552734375;i:4;a:0:{}}i:47;a:5:{i:0;s:732:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Article' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2747020721435546875;i:4;a:0:{}}i:49;a:5:{i:0;s:824:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Article' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.275701999664306640625;i:4;a:0:{}}i:50;a:5:{i:0;s:824:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Article' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2777020931243896484375;i:4;a:0:{}}i:52;a:5:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Construct' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2777020931243896484375;i:4;a:0:{}}i:53;a:5:{i:0;s:491:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Construct' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2797029018402099609375;i:4;a:0:{}}i:55;a:5:{i:0;s:734:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Construct' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.2797029018402099609375;i:4;a:0:{}}i:56;a:5:{i:0;s:734:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Construct' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.313704967498779296875;i:4;a:0:{}}i:58;a:5:{i:0;s:826:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Construct' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.31470489501953125;i:4;a:0:{}}i:59;a:5:{i:0;s:826:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Construct' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3167049884796142578125;i:4;a:0:{}}i:61;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Download' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3167049884796142578125;i:4;a:0:{}}i:62;a:5:{i:0;s:490:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Download' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3177049160003662109375;i:4;a:0:{}}i:64;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Download' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3177049160003662109375;i:4;a:0:{}}i:65;a:5:{i:0;s:733:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Download' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3487069606781005859375;i:4;a:0:{}}i:67;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Download' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3487069606781005859375;i:4;a:0:{}}i:68;a:5:{i:0;s:825:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Download' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.35070705413818359375;i:4;a:0:{}}i:70;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Image' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.35070705413818359375;i:4;a:0:{}}i:71;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Image' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.351706981658935546875;i:4;a:0:{}}i:73;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Image' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.351706981658935546875;i:4;a:0:{}}i:74;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Image' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.39070892333984375;i:4;a:0:{}}i:76;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Image' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3917090892791748046875;i:4;a:0:{}}i:77;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Image' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:79;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Repute' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:80;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Repute' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:82;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Repute' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.3937089443206787109375;i:4;a:0:{}}i:83;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Repute' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4317109584808349609375;i:4;a:0:{}}i:85;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Repute' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4327108860015869140625;i:4;a:0:{}}i:86;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Repute' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.43371105194091796875;i:4;a:0:{}}i:88;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Video' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.434710979461669921875;i:4;a:0:{}}i:89;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MInfo_Video' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4357120990753173828125;i:4;a:0:{}}i:91;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Video' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4357120990753173828125;i:4;a:0:{}}i:92;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MInfo_Video' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.470714092254638671875;i:4;a:0:{}}i:94;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Video' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.470714092254638671875;i:4;a:0:{}}i:95;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MInfo_Video' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:97;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MLog_Access' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:98;a:5:{i:0;s:487:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MLog_Access' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.472713947296142578125;i:4;a:0:{}}i:100;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MLog_Access' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4737141132354736328125;i:4;a:0:{}}i:101;a:5:{i:0;s:730:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MLog_Access' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.497714996337890625;i:4;a:0:{}}i:103;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MLog_Access' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.498714923858642578125;i:4;a:0:{}}i:104;a:5:{i:0;s:822:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MLog_Access' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4997150897979736328125;i:4;a:0:{}}i:106;a:5:{i:0;s:486:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Login' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.4997150897979736328125;i:4;a:0:{}}i:107;a:5:{i:0;s:486:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Login' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5007150173187255859375;i:4;a:0:{}}i:109;a:5:{i:0;s:729:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Login' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5007150173187255859375;i:4;a:0:{}}i:110;a:5:{i:0;s:729:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Login' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5197160243988037109375;i:4;a:0:{}}i:112;a:5:{i:0;s:821:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Login' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5207159519195556640625;i:4;a:0:{}}i:113;a:5:{i:0;s:821:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Login' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:115;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Session' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:116;a:5:{i:0;s:488:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_Session' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.52171611785888671875;i:4;a:0:{}}i:118;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Session' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.522716999053955078125;i:4;a:0:{}}i:119;a:5:{i:0;s:731:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_Session' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5397169589996337890625;i:4;a:0:{}}i:121;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Session' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5397169589996337890625;i:4;a:0:{}}i:122;a:5:{i:0;s:823:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_Session' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.54071807861328125;i:4;a:0:{}}i:124;a:5:{i:0;s:485:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:125;a:5:{i:0;s:485:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'MSys_User' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:127;a:5:{i:0;s:728:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_User' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.541718006134033203125;i:4;a:0:{}}i:128;a:5:{i:0;s:728:"SELECT
+    [t1].[column_name], [t1].[is_nullable], [t1].[data_type], [t1].[column_default],
+    COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+    CONVERT(VARCHAR, [t2].[value]) AS comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+LEFT OUTER JOIN [sys].[extended_properties] AS [t2] ON
+    [t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID') AND
+    OBJECT_NAME([t2].[major_id]) = [t1].[table_name] AND
+    [t2].[class] = 1 AND
+    [t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+    [t2].[name] = 'MS_Description'
+WHERE [t1].[table_name] = 'MSys_User' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.579720020294189453125;i:4;a:0:{}}i:130;a:5:{i:0;s:820:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.58071994781494140625;i:4;a:0:{}}i:131;a:5:{i:0;s:820:"SELECT
+    [kcu1].[column_name] AS [fk_column_name],
+    [kcu2].[table_name] AS [uq_table_name],
+    [kcu2].[column_name] AS [uq_column_name]
+FROM [INFORMATION_SCHEMA].[REFERENTIAL_CONSTRAINTS] AS [rc]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu1] ON
+    [kcu1].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu1].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu1].[constraint_name] = [rc].[constraint_name]
+JOIN [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu2] ON
+    [kcu2].[constraint_catalog] = [rc].[constraint_catalog] AND
+    [kcu2].[constraint_schema] = [rc].[constraint_schema] AND
+    [kcu2].[constraint_name] = [rc].[unique_constraint_name] AND
+    [kcu2].[ordinal_position] = [kcu1].[ordinal_position]
+WHERE [kcu1].[table_name] = 'MSys_User' AND [kcu1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5817201137542724609375;i:4;a:0:{}}i:133;a:5:{i:0;s:482:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'UNIQUE' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5837199687957763671875;i:4;a:0:{}}i:134;a:5:{i:0;s:482:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'UNIQUE' AND
+    [kcu].[table_name] = 'MInfo_Cases' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453715806.5837199687957763671875;i:4;a:0:{}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"56a5f15e14303";s:3:"url";s:119:"http://127.0.0.1:81/shmdaapi/api/web/index.php?r=gii%2Fdefault%2Fpreview&id=model&file=3f32de9eca7dd1bd4ad3c0cf9a41afd3";s:4:"ajax";i:1;s:6:"method";s:4:"POST";s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1453715806;s:10:"statusCode";i:200;s:8:"sqlCount";i:41;s:9:"mailCount";i:0;}}
